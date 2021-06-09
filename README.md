@@ -1,6 +1,6 @@
 # Spacegame
 ### A game in space
-![Spacegame image][./images/spacegame.png]
+![spaceimg](./images/spacegame.png)
 ## Install
 #### Clone this repository
 `git clone https://github.com/morehwachege/spacegame`
